@@ -1,0 +1,12 @@
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module 3\CampusEvents2\CampusEvents2\bin\Debug\CampusEvents2.exe.config
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module 3\CampusEvents2\CampusEvents2\obj\Debug\CampusEvents2.csprojResolveAssemblyReference.cache
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module 3\CampusEvents2\CampusEvents2\obj\Debug\CampusEvents2.CampusEvents.resources
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module 3\CampusEvents2\CampusEvents2\obj\Debug\CampusEvents2.Properties.Resources.resources
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module 3\CampusEvents2\CampusEvents2\obj\Debug\CampusEvents2.csproj.GenerateResource.Cache
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module 3\CampusEvents2\CampusEvents2\bin\Debug\CampusEvents2.exe
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module 3\CampusEvents2\CampusEvents2\bin\Debug\CampusEvents2.pdb
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module 3\CampusEvents2\CampusEvents2\obj\Debug\CampusEvents2.exe
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module 3\CampusEvents2\CampusEvents2\obj\Debug\CampusEvents2.pdb
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module3\CampusEvents2\CampusEvents2\bin\Debug\CampusEvents2.exe.config
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module3\CampusEvents2\CampusEvents2\obj\Debug\CampusEvents2.exe
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module3\CampusEvents2\CampusEvents2\obj\Debug\CampusEvents2.pdb
