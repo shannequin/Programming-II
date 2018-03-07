@@ -1,0 +1,9 @@
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module2\FlyersSportsClub\FlyersSportsClub\bin\Debug\FlyersSportsClub.exe.config
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module2\FlyersSportsClub\FlyersSportsClub\bin\Debug\FlyersSportsClub.exe
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module2\FlyersSportsClub\FlyersSportsClub\bin\Debug\FlyersSportsClub.pdb
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module2\FlyersSportsClub\FlyersSportsClub\obj\Debug\FlyersSportsClub.csprojResolveAssemblyReference.cache
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module2\FlyersSportsClub\FlyersSportsClub\obj\Debug\FlyersSportsClub.FlyersSportsClub.resources
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module2\FlyersSportsClub\FlyersSportsClub\obj\Debug\FlyersSportsClub.Properties.Resources.resources
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module2\FlyersSportsClub\FlyersSportsClub\obj\Debug\FlyersSportsClub.csproj.GenerateResource.Cache
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module2\FlyersSportsClub\FlyersSportsClub\obj\Debug\FlyersSportsClub.exe
+C:\Users\Shannon\Documents\NSCC\CITC1311 Programming II\Module2\FlyersSportsClub\FlyersSportsClub\obj\Debug\FlyersSportsClub.pdb
